@@ -1,0 +1,14 @@
+{
+  "default_pattern": "{datetime}: {game} save ({count} file(s))",
+  "auto_commit": true,
+  "theme": "dark",
+  "last_id": "9bb8f0ffe0f5455b91383e42e59c96d7",
+  "games": [
+    {
+      "id": "9bb8f0ffe0f5455b91383e42e59c96d7",
+      "name": "Mindustry",
+      "path": "C:\\Users\\Juraj\\AppData\\Roaming\\Mindustry\\saves",
+      "pattern": "{datetime}"
+    }
+  ]
+}
